@@ -32,8 +32,8 @@ DataScience-LisbonAirbnb/
 ```
 * __DataScience-LisbonAirbnb.ipynb__: Notebook with all the scripts used to analyse data and to answer the questions mentioned above
 * __utility.py__: Python file with auxiliar functions/scripts
-* __data/listings_complete.csv__: Detailed Listings data for Lisbon ((Airbnb)[https://airbnb.com/])
-* __data/calendar.csv__: Detailed Calendar Data for listings in Lisbon ((Airbnb)[https://airbnb.com/])
+* __data/listings_complete.csv__: Detailed Listings data for Lisbon ([Airbnb](https://airbnb.com/))
+* __data/calendar.csv__: Detailed Calendar Data for listings in Lisbon ([Airbnb](https://airbnb.com/))
 
 ## Results <a name="Results"></a>
 The detailed analysis and main conclusions/results are availabe in [here](https://www.google.pt]).
