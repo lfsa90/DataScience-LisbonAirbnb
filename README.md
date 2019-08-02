@@ -12,7 +12,8 @@ This code was written under the Udacity Data Scientist Nanodegree Project.
 5. [Licensing, Authors, and Acknowledgements](#Licensing)
 
 ## Installation <a name="Installation"></a>
-
+* The code was tested on anaconda with python 3.73. Neverthless, it should run with no issues using Python 3.* in any other environment.
+*
 ## Introduction / Motivation <a name="Introduction"></a>
 
 ## Data <a name="Data"></a>
