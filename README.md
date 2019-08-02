@@ -30,10 +30,10 @@ DataScience-LisbonAirbnb/
     ├── listings_complete.csv
     ├──	calendar.csv
 ```
-*__DataScience-LisbonAirbnb.ipynb__: Notebook with all the scripts used to analyse data and to answer the questions
-*__utility.py__: Python file with auxiliar functions/scripts
-*__data/listings_complete.csv__: Detailed Listings data for Lisbon
-*__data/calendar.csv__: Detailed Calendar Data for listings in Lisbon
+* __DataScience-LisbonAirbnb.ipynb__: Notebook with all the scripts used to analyse data and to answer the questions
+* __utility.py__: Python file with auxiliar functions/scripts
+* __data/listings_complete.csv__: Detailed Listings data for Lisbon
+* __data/calendar.csv__: Detailed Calendar Data for listings in Lisbon
 
 ## Results <a name="Results"></a>
 
