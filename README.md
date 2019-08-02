@@ -16,7 +16,9 @@ This code was written under the Udacity Data Scientist Nanodegree Project.
 
 ## Introduction / Motivation <a name="Introduction"></a>
 This is an Udacity Data Science Nanodegree project.
-For this project I chose Airbnb-Lisbon (my hometown) dataset
+
+For this project I chose Airbnb-Lisbon (my hometown) 2019 dataset ([here])(http://insideairbnb.com/get-the-data.html), and was mainly interested in finding the answers to the following questions:
+1. Price 
 
 ## Data <a name="Data"></a>
 
