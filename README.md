@@ -2,7 +2,8 @@
 
 This code was written under the Udacity Data Scientist Nanodegree Project.
 
-### Table of Contents
+
+## Table of Contents
 
 1. [Installation](#Installation)
 2. [Introduction/Motivation](#Introduction)
@@ -10,12 +11,12 @@ This code was written under the Udacity Data Scientist Nanodegree Project.
 4. [Results](#Results)
 5. [Licensing, Authors, and Acknowledgements](#Licensing)
 
-### Installation <a name="Installation"></a>
+## Installation <a name="Installation"></a>
 
-### Introduction / Motivation <a name="Introduction"></a>
+## Introduction / Motivation <a name="Introduction"></a>
 
-### Data <a name="Data"></a>
+## Data <a name="Data"></a>
 
-### Results <a name="Results"></a>
+## Results <a name="Results"></a>
 
-### Licensing, Authors, and Acknowledgements <a name="Licensing"></a>
+## Licensing, Authors, and Acknowledgements <a name="Licensing"></a>
