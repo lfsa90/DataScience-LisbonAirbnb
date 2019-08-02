@@ -36,6 +36,6 @@ DataScience-LisbonAirbnb/
 * __data/calendar.csv__: Detailed Calendar Data for listings in Lisbon
 
 ## Results <a name="Results"></a>
-
+The detailed analysis and main conclusions/results are availabe in the post ((here)[https://www.google.pt])
 
 ## Licensing, Authors, and Acknowledgements <a name="Licensing"></a>
