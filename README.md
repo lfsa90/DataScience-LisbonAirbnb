@@ -45,7 +45,7 @@ DataScience-LisbonAirbnb/
 ## Results <a name="Results"></a>
 The detailed analysis and main conclusions/results are availabe in [here](https://www.google.pt]).
 
-* Price fluctuatuion over time
+* Price fluctuation over time
 
 ![price_vs_time](price_vs_time.png)
 For 2019, the prices decrease after Summer time until December.
@@ -55,14 +55,21 @@ For 2020, the prices are considerably higher than in 2019, and seem to steadily 
 
 * Listings - price tag and property types
 
+![pricetag](pricetag.png)
+
+![proptype](proptype.png)
+
 As seen in the bar chart above, most of the listings have a price tag between 20\\$ and 140\\$
 Also, the most frequent property type is apartment, followed up by (entire) house.
 
 
 * Main factors influencing price
 
+![pricepred](pricepred.png)
 
 The features which characterize the house/listing topology (bathrooms, bedrooms, accomodates) are on the top 5 of the top 10 important features, meaning these features have a high impact on the price.
+
+
 ## Licensing, Authors, and Acknowledgements <a name="Licensing"></a>
 * Thanks to Udacity for all the useful insights and interesting challenges!
 * Thanks to Airbnb for making these data sets available to everyone!
