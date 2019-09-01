@@ -45,6 +45,10 @@ DataScience-LisbonAirbnb/
 ## Results <a name="Results"></a>
 The detailed analysis and main conclusions/results are availabe in [here](https://www.google.pt]).
 
+* Listings - price tag and property types
+
+
+
 ## Licensing, Authors, and Acknowledgements <a name="Licensing"></a>
 * Thanks to Udacity for all the useful insights and interesting challenges!
 * Thanks to Airbnb for making these data sets available to everyone!
