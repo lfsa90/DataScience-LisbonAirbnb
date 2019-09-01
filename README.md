@@ -47,7 +47,7 @@ The detailed analysis and main conclusions/results are availabe in [here](https:
 
 * Price fluctuatuion over time
 
-
+![price_vs_time](price_vs_time.png)
 For 2019, the prices decrease after Summer time until December.
 Then, close to New Year's Eve, there is sudden increase in average price as it would be expected.
 For 2020, the prices are considerably higher than in 2019, and seem to steadily increase from the begining of the year.
