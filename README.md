@@ -34,7 +34,8 @@ DataScience-LisbonAirbnb/
 ├── utility.py
 └── data/
     ├── listings_complete.csv
-    ├──	calendar.csv
+    ├── calendar.csv
+    ├── listings.csv
 ```
 * __DataScience-LisbonAirbnb.ipynb__: Notebook with all the scripts used to analyse data and to answer the questions mentioned above
 * __utility.py__: Python file with auxiliar functions/scripts
