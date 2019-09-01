@@ -21,10 +21,12 @@ This code was written under the Udacity Data Scientist Nanodegree Project.
 This is an Udacity Data Science Nanodegree project.
 
 For this project I chose Airbnb-Lisbon (my hometown) 2019 dataset ([here](http://insideairbnb.com/get-the-data.html)), and was mainly interested in finding the answers to the following questions:
-1. Busiest times of the year in Lisbon and price fluctuation;
-2. What are the most popular neighbourhoods and house types;
-3. Main factors driving higher prices.
-
+   * 1) How does price fluctuate over time?;
+   * 2) What is the availability trend over time?;
+   * 3) What type of listings do we have in Lisbon? - price range, house types and listings by neighbourood;
+   * 4) How is availability related wity price, host type, number of reviews and scores, and room type?;
+   * 5) Price preditction - main factors influencing price.
+   
 ## Data <a name="Data"></a>
 ```text
 DataScience-LisbonAirbnb/
