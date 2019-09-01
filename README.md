@@ -13,9 +13,9 @@ This code was written under the Udacity Data Scientist Nanodegree Project.
 ## Installation <a name="Installation"></a>
 * The code was developed and tested on anaconda with python 3.73. Nevertheless, it should run with no issues using Python 3.* in any other environment.
 * The datasets must be downlowaded from the Airbnb website/data repository, unziped, and placed in the '/Data' folder:
-- ([listings_complete.csv](http://data.insideairbnb.com/portugal/lisbon/lisbon/2019-06-26/data/listings.csv.gz)). Important: this file must be renamed to 'listings_complete.csv' before placing it in '/Data' folder;
-- ([calendar.csv](http://data.insideairbnb.com/portugal/lisbon/lisbon/2019-06-26/data/calendar.csv.gz));
-- ([listings.csv](http://data.insideairbnb.com/portugal/lisbon/lisbon/2019-06-26/visualisations/listings.csv)).
+-- ([listings_complete.csv](http://data.insideairbnb.com/portugal/lisbon/lisbon/2019-06-26/data/listings.csv.gz)). Important: this file must be renamed to 'listings_complete.csv';
+-- ([calendar.csv](http://data.insideairbnb.com/portugal/lisbon/lisbon/2019-06-26/data/calendar.csv.gz));
+-- ([listings.csv](http://data.insideairbnb.com/portugal/lisbon/lisbon/2019-06-26/visualisations/listings.csv)).
 
 ## Introduction / Motivation <a name="Introduction"></a>
 This is an Udacity Data Science Nanodegree project.
