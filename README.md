@@ -43,7 +43,7 @@ DataScience-LisbonAirbnb/
 * __Data/calendar.csv__: Detailed Calendar Data for listings in Lisbon ([Airbnb](https://airbnb.com/))
 
 ## Results <a name="Results"></a>
-The detailed analysis and main conclusions/results are availabe in [here](https://medium.com/@luisf.almeida90/lisbon-an-amazing-destination-b36edff06967?source=search_post---------0]).
+The detailed analysis and main conclusions/results are availabe in [here](https://medium.com/@luisf.almeida90/lisbon-an-amazing-destination-b36edff06967]).
 
 * Price fluctuation over time
 
